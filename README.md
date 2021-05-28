@@ -1,0 +1,1 @@
+# Polinomio_caracteristico_estable
