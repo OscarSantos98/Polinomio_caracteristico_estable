@@ -2,7 +2,7 @@ import math
 import numpy as np
 
 validos = []
-limite_sup = 30
+limite_sup = 100
 limite_inf = -20
 paso = 0.01
 
